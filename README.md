@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **suwanthadarshana@gmail.com**
 
-- 📄 Know about my experiences [https://suwanthadarshana.github.io/My-Web/](https://suwanthadarshana.github.io/My-Web/)
+- 📄 Know about my experiences [https://www.suwanthadarshana.ninja/](https://www.suwanthadarshana.ninja/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/suwa9_9" target="blank"><img src="https://img.shields.io/twitter/follow/suwa9_9?logo=twitter&style=for-the-badge" alt="suwa9_9" /></a> </p>
 
-- 🌱 I’m currently learning **Java, Angular, Spring Boot**
+- 🌱 I’m currently learning **Java, React, Spring Boot**
 
 - 📫 How to reach me **suwanthadarshana@gmail.com**
 

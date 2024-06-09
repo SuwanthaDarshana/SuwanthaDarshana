@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Suwantha</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="[https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/67441800327766fc-96/s1920x1080/fe67f6e7feaaf682aa84cd0280cbb4eed24e9dea.gif](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)">
+<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/67441800327766fc-96/s1920x1080/fe67f6e7feaaf682aa84cd0280cbb4eed24e9dea.gif](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suwanthadarshana&label=Profile%20views&color=0e75b6&style=flat" alt="suwanthadarshana" /> </p>
 
 <p align="left"> <a href="https://twitter.com/suwa9_9" target="blank"><img src="https://img.shields.io/twitter/follow/suwa9_9?logo=twitter&style=for-the-badge" alt="suwa9_9" /></a> </p>

@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java, React, Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://www.suwanthadarshana.ninja/](https://www.suwanthadarshana.ninja/)
+- 👨‍💻 All of my projects are available at [https://suwanthadarshana.com/](https://suwanthadarshana.com/)
 
 - 📫 How to reach me **suwanthadarshana@gmail.com**
 

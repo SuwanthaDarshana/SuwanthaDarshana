@@ -9,7 +9,7 @@
 ╚══════╝ ╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-### Full Stack Developer· Spring Boot · React · Microservices
+### Full Stack Developer · Spring Boot · React · Microservices
 ### 🇱🇰 Sri Lanka &nbsp;|&nbsp; Available for opportunities
 
 [![Profile Views](https://komarev.com/ghpvc/?username=suwanthadarshana&label=Profile%20views&color=6366f1&style=flat)](https://github.com/SuwanthaDarshana)

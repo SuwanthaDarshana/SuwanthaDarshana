@@ -1,37 +1,185 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Suwantha</h1>
-<h3 align="center">A passionate full stack developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suwanthadarshana&label=Profile%20views&color=0e75b6&style=flat" alt="suwanthadarshana" /> </p>
+```
+███████╗██╗   ██╗██╗    ██╗ █████╗ ███╗   ██╗████████╗██╗  ██╗ █████╗
+██╔════╝██║   ██║██║    ██║██╔══██╗████╗  ██║╚══██╔══╝██║  ██║██╔══██╗
+███████╗██║   ██║██║ █╗ ██║███████║██╔██╗ ██║   ██║   ███████║███████║
+╚════██║██║   ██║██║███╗██║██╔══██║██║╚██╗██║   ██║   ██╔══██║██╔══██║
+███████║╚██████╔╝╚███╔███╔╝██║  ██║██║ ╚████║   ██║   ██║  ██║██║  ██║
+╚══════╝ ╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
-<p align="left"> <a href="https://twitter.com/suwa9_9" target="blank"><img src="https://img.shields.io/twitter/follow/suwa9_9?logo=twitter&style=for-the-badge" alt="suwa9_9" /></a> </p>
+### Associate Full Stack Developer · Spring Boot · React · Microservices
+### 🇱🇰 Sri Lanka &nbsp;|&nbsp; Available for opportunities
 
-- 🌱 I’m currently learning **Java, React, Spring Boot**
+[![Profile Views](https://komarev.com/ghpvc/?username=suwanthadarshana&label=Profile%20views&color=6366f1&style=flat)](https://github.com/SuwanthaDarshana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/suwantha-darshana-3b9856219)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/suwa9_9)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=flat&logo=vercel&logoColor=white)](https://www.suwanthadarshana.site)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/suwanthadarshana)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@suwanthadarshana)
 
-- 👨‍💻 All of my projects are available at [https://www.suwanthadarshana.site/](https://www.suwanthadarshana.site)
+</div>
 
-- 📫 How to reach me **suwanthadarshana@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/suwa9_9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suwa9_9" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/suwantha-darshana-3b9856219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suwantha-darshana-3b9856219" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20191917" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20191917" height="30" width="40" /></a>
-<a href="https://fb.com/suwantha darshana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suwantha darshana" height="30" width="40" /></a>
-<a href="https://instagram.com/suwanthaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suwanthaa" height="30" width="40" /></a>
-<a href="https://medium.com/@suwanthadarshana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@suwanthadarshana" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/suwanthadarshana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suwanthadarshana" height="30" width="40" /></a>
-</p>
+## 👨‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+Software Engineer with **2+ years of experience** building scalable full-stack applications. Currently working at **Metadew Technologies** as an Associate Full Stack Developer, developing enterprise applications with Spring Boot, React, and Docker.
 
+- 🏢 Currently at **Metadew Technologies** — Spring Boot · React · PostgreSQL · Docker
+- 🎓 **B.Sc. (Hons) in Information Technology** — University of Moratuwa (2021–2025)
+- 🔐 Skilled in **JWT, OAuth2, Keycloak, Spring Security, RBAC**
+- ☁️ Experienced with **AWS (EC2, S3)**, Docker, GitHub Actions CI/CD
+- 🧠 Final year research: **Multi-modal Violent Content Detection** for Sinhala YouTube videos (NLP + Transformers)
+- 📫 Reach me at **suwanthadarshana@gmail.com**
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suwanthadarshana&show_icons=true&locale=en&layout=compact" alt="suwanthadarshana" /></p>
+## 💼 Work Experience
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suwanthadarshana&show_icons=true&locale=en" alt="suwanthadarshana" /></p>
+| Period | Role | Company |
+|--------|------|---------|
+| **Mar 2026 – Present** | Associate Full Stack Developer | Metadew Technologies |
+| **Jul 2024 – Jan 2025** | Associate Software Engineer | Hasthiya IT (Pvt) Ltd |
+| **Jan 2024 – Jul 2024** | Software Engineer Intern | Ceylinco Life Insurance Limited |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suwanthadarshana&" alt="suwanthadarshana" /></p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suwanthadarshana" alt="suwanthadarshana" /></a> </p>
+## 🛠️ Tech Stack
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+**Security & Auth**
+
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🏥 MediCare+ — Hospital Management System *(May 2026)*
+> Microservices · Spring Boot · React · Docker · RabbitMQ · WebSocket
+
+A production-grade microservices Hospital Management System with service discovery, API gateway, and asynchronous communication.
+
+- Implemented **Eureka service discovery**, **Spring Cloud Gateway**, and **RabbitMQ** for async messaging
+- Built real-time features with **WebSockets** and responsive UI with TypeScript + Tailwind CSS
+- Containerized all services with **Docker**; data managed via MySQL and PostgreSQL
+
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/SuwanthaDarshana/hospital-management-system)
+
+---
+
+### ✅ Task Tracker *(Feb 2026)*
+> Spring Boot · React · TypeScript · MySQL · JWT
+
+Secure task management system with advanced authentication patterns.
+
+- Implemented **JWT authentication with refresh token rotation and theft detection**
+- Built a responsive SPA with automatic token refresh and **Swagger** API documentation
+
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/SuwanthaDarshana/task-tracker)
+
+---
+
+### 📚 Learning Management System *(Jan 2026)*
+> Node.js (Hono) · Cloudflare D1 · React · Redux Toolkit · JWT
+
+Full-stack student management platform with role-based access for Admin and Student users.
+
+- Developed REST APIs using **Node.js (Hono)** and **Cloudflare D1 (SQLite)**
+- Managed global state with **Redux Toolkit**
+
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/SuwanthaDarshana/learning-management-system)
+
+---
+
+### 🏨 Hotel Management System *(Sep 2025)*
+> Spring Boot · React · MySQL · Microservices · Keycloak
+
+Full-stack hotel management platform with microservices architecture, integrated payment gateway and email notifications.
+
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/hotel-mgt-dev)
+
+---
+
+### 🎥 Multi-Modal Violent Content Detection *(Aug 2024 – Jun 2025)*
+> Python · PyTorch · XLM-RoBERTa · NLP · YouTube Data API
+
+Final year research project — detecting violent content in Sinhala YouTube videos using video, audio, and comment analysis.
+
+- Applied **NLP and Transformer models (XLM-RoBERTa)** for Sinhala text classification
+- Integrated multiple ML models for accurate **multi-modal content detection**
+
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/SuwanthaDarshana/youtube_comments_analyse)
+
+---
+
+## 🏆 Achievements & Certifications
+
+| Year | Achievement |
+|------|-------------|
+| 2025 | 🏅 Java Foundations Professional Certificate — JetBrains |
+| 2025 | ☁️ AWS Cloud Quest: Cloud Practitioner — Amazon Web Services |
+| 2025 | 🐳 Docker Foundations Professional Certificate — Docker |
+| 2025 | 🔧 API Testing with Postman — Learnfi Learning |
+| 2023 | 🔐 Diploma in Cyber Security & Ethical Hacking — SITC Campus |
+| 2023 | 🏆 Hack Moral 5.0 — **4th Place**, Intra-faculty Coding Competition (INTECS) |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=suwanthadarshana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=6366f1" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suwanthadarshana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1" alt="Top Languages" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=suwanthadarshana&theme=tokyonight&hide_border=true&background=0D1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=suwanthadarshana&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Building reliable, user-focused software solutions — one commit at a time."*
+
+⭐ **If you find my work interesting, consider starring some repos!**
+
+</div>

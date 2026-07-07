@@ -25,7 +25,7 @@
 
 ## 👨‍💻 About Me
 
-Software Engineer with **2+ years of experience** building scalable full-stack applications. Currently working at **Metadew Technologies** as an Associate Full Stack Developer, developing enterprise applications with Spring Boot, React, and Docker.
+Software Engineer with **4+ years of experience** building scalable full-stack applications. Currently working at **Metadew Technologies** as an Associate Full Stack Developer, developing enterprise applications with Spring Boot, React, and Docker.
 
 - 🏢 Currently at **Metadew Technologies** — Spring Boot · React · PostgreSQL · Docker
 - 🎓 **B.Sc. (Hons) in Information Technology** — University of Moratuwa (2021–2025)

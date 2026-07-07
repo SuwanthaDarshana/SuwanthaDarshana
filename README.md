@@ -40,7 +40,7 @@ Software Engineer with **4+ years of experience** building scalable full-stack a
 
 | Period | Role | Company |
 |--------|------|---------|
-| **Mar 2026 – Present** | Associate Full Stack Developer | Metadew Technologies |
+| **Mar 2026 – Present** | Full Stack Developer | Metadew Technologies |
 | **Jul 2024 – Jan 2025** | Associate Software Engineer | Hasthiya IT (Pvt) Ltd |
 | **Jan 2024 – Jul 2024** | Software Engineer Intern | Ceylinco Life Insurance Limited |
 
